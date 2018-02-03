@@ -1,0 +1,39 @@
+<html>
+<head>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="ZDI4MGUzNzItMTlhZC00YjgwLWI4N2QtZGVhZDNhZDUxYWY1NjM2NTMwNjU3ODE0OTc0NDEw"></script>
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
+<div style="text-align:center" class="snipcart-summary">
+    Items in your cart: <span class="snipcart-total-items"in your cart></span>
+    Total price: <span class="snipcart-total-price"></span>
+</div>
+<a style="text-align:right" href="#" class="snipcart-checkout"><p style="text-align:center">Click here to Checkout!</p> </a>
+<table cellpadding="3" width="100%"><tbody><tr>
+<td align="LEFT"a valign="TOP" width="40%"><tt><b>
+
+<hr>
+
+</b></tt>
+</td>
+<td align="center" valign="top" width="3"><div style="width:1px;background-color:#C0C0C0;margin-left:1px;margin-right:1px;height:450px;"></div></td>
+<td align="LEFT" valign="TOP" width="60%"><tt><b>
+
+<button
+    class="snipcart-add-item"
+    data-item-id="2"
+    data-item-name="Bacon"
+    data-item-price="3.00"
+    data-item-weight="20"
+    data-item-url="http://myapp.com/products/bacon"
+    data-item-description="Some fresh bacon">
+        Buy bacon
+</button>
+<hr>
+</b></tt>
+</td>
+</TD>
+</TR>
+</TABLE>
+</b></tt></td></tr></tbody></table>
+</html>
